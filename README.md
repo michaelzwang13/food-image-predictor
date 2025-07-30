@@ -2,13 +2,14 @@
 
 A comprehensive machine learning project for multiclass food image classification using the food-101 dataset. This project compares multiple approaches including Convolutional Neural Networks (CNNs), traditional Neural Networks, and Support Vector Machines (SVMs).
 
+Completed for CS-UY 4563 Spring 2025
+
 ## Authors
 - Michael Wang
 - Jay Zhu
 
 ## Research Paper
-**Paper Title:** Multi-Class Food Image Classification Across 101 Categories  
-**Link:** [Google Docs](https://docs.google.com/document/d/1vjy_1jv1RdCnkwuTe5NayBLfGsdrQFyLz-9ItQAVns8/edit?usp=sharing)
+**Paper Title:** [Multi-Class Food Image Classification Across 101 Categories](https://docs.google.com/document/d/1vjy_1jv1RdCnkwuTe5NayBLfGsdrQFyLz-9ItQAVns8/edit?usp=sharing)
 
 ## Project Overview
 
